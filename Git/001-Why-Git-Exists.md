@@ -16,4 +16,3 @@ The `git add` command stages changes so they will be included in the next commit
 
 ## Summary
 Git allows developers to safely track the evolution of a project through a history of commits.
-This line is only for learning Git Diff.

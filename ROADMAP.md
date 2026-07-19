@@ -4,8 +4,8 @@
 
 - [x] Git 001 - Why Git Exists
 - [x] Git 002 - Commits
-- [ ] Git 003 - History
-- [ ] Git 004 - Branches
+- [x] Git 003 - History
+- [x] Git 004 - Branches
 
 ## Linux
 
