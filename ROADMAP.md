@@ -7,7 +7,7 @@
 - [x] Git 003 - History
 - [x] Git 004 - Branches
 - [x] Git 005 - Stashing
-- [ ] Git 006 - Tags
+- [x] Git 006 - Tags
 - [ ] Git 007 - Remotes
 - [ ] Git 008 - Fetch vs Pull
 - [ ] Git 009 - Push

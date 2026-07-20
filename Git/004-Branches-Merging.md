@@ -437,6 +437,7 @@ Merge conflicts will be studied in the next lesson.
 - Multiple branches share the same commit history until they diverge.
 - `HEAD` identifies the current branch.
 - `git branch` creates a new branch.
+- `git branch -d` deletes a branch.
 - `git switch` changes the active branch and updates the working directory.
 - `git merge` incorporates one branch into another.
 - The current branch always receives the changes.
