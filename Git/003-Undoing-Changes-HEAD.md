@@ -108,4 +108,5 @@ When a new commit is created, the current branch moves to the new commit, and HE
 - `git commit` creates a new snapshot in the Repository.
 - `git restore` discards changes in the Working Directory.
 - `git restore --staged` removes changes from the Staging Area without deleting your work.
+- `git diff --staged` displays what is staged but not yet committed.
 - HEAD indicates where you are currently working in the repository.
