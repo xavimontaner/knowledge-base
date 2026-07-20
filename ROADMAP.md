@@ -7,6 +7,19 @@
 - [x] Git 003 - History
 - [x] Git 004 - Branches
 - [x] Git 005 - Stashing
+- [ ] Git 006 - Tags
+- [ ] Git 007 - Remotes
+- [ ] Git 008 - Fetch vs Pull
+- [ ] Git 009 - Push
+- [ ] Git 010 - Merge Conflicts
+- [ ] Git 011 - .gitignore
+- [ ] Git 012 - Rebasing
+- [ ] Git 013 - Cherry-pick
+- [ ] Git 014 - Reset (Soft, Mixed, Hard)
+- [ ] Git 015 - Reflog
+- [ ] Git 016 - Interactive Rebase
+- [ ] Git 017 - Git Workflows
+- [ ] Git 018 - Best Practices
 
 ## Linux
 
