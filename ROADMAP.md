@@ -8,7 +8,7 @@
 - [x] Git 004 - Branches
 - [x] Git 005 - Stashing
 - [x] Git 006 - Tags
-- [ ] Git 007 - Remotes
+- [x] Git 007 - Remotes
 - [ ] Git 008 - Fetch vs Pull
 - [ ] Git 009 - Push
 - [ ] Git 010 - Merge Conflicts
