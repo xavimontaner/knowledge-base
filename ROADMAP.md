@@ -9,9 +9,9 @@
 - [x] Git 005 - Stashing
 - [x] Git 006 - Tags
 - [x] Git 007 - Remotes
-- [ ] Git 008 - Fetch vs Pull
-- [ ] Git 009 - Push
-- [ ] Git 010 - Merge Conflicts
+- [x] Git 008 - Fetch vs Pull
+- [x] Git 009 - Push
+- [x] Git 010 - Merge Conflicts
 - [ ] Git 011 - .gitignore
 - [ ] Git 012 - Rebasing
 - [ ] Git 013 - Cherry-pick
