@@ -13,7 +13,7 @@
 - [x] Git 009 - Push
 - [x] Git 010 - Merge Conflicts
 - [x] Git 011 - .gitignore
-- [ ] Git 012 - Rebasing
+- [x] Git 012 - Rebasing
 - [ ] Git 013 - Cherry-pick
 - [ ] Git 014 - Reset (Soft, Mixed, Hard)
 - [ ] Git 015 - Reflog
