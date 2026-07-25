@@ -15,7 +15,7 @@
 - [x] Git 011 - .gitignore
 - [x] Git 012 - Rebasing
 - [x] Git 013 - Cherry-pick
-- [ ] Git 014 - Reset (Soft, Mixed, Hard)
+- [x] Git 014 - Reset (Soft, Mixed, Hard)
 - [ ] Git 015 - Reflog
 - [ ] Git 016 - Interactive Rebase
 - [ ] Git 017 - Git Workflows
