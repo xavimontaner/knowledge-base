@@ -14,7 +14,7 @@
 - [x] Git 010 - Merge Conflicts
 - [x] Git 011 - .gitignore
 - [x] Git 012 - Rebasing
-- [ ] Git 013 - Cherry-pick
+- [x] Git 013 - Cherry-pick
 - [ ] Git 014 - Reset (Soft, Mixed, Hard)
 - [ ] Git 015 - Reflog
 - [ ] Git 016 - Interactive Rebase
