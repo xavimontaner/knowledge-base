@@ -18,7 +18,7 @@
 - [x] Git 014 - Reset (Soft, Mixed, Hard)
 - [x] Git 015 - Reflog
 - [x] Git 016 - Interactive Rebase
-- [ ] Git 017 - Git Workflows
+- [x] Git 017 - Git Workflows
 - [ ] Git 018 - Best Practices
 
 ## Linux
