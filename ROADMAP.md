@@ -1,46 +1,41 @@
 # Project Blackbird
 
 ## Git
+- [x] Git Fundamentals
 
-- [x] Git 001 - Why Git Exists
-- [x] Git 002 - Commits
-- [x] Git 003 - History
-- [x] Git 004 - Branches
-- [x] Git 005 - Stashing
-- [x] Git 006 - Tags
-- [x] Git 007 - Remotes
-- [x] Git 008 - Fetch vs Pull
-- [x] Git 009 - Push
-- [x] Git 010 - Merge Conflicts
-- [x] Git 011 - .gitignore
-- [x] Git 012 - Rebasing
-- [x] Git 013 - Cherry-pick
-- [x] Git 014 - Reset (Soft, Mixed, Hard)
-- [x] Git 015 - Reflog
-- [x] Git 016 - Interactive Rebase
-- [x] Git 017 - Git Workflows
-- [ ] Git 018 - Best Practices
+  - [x] Git 001 - Why Git Exists
+  - [x] Git 002 - Commits
+  - [x] Git 003 - History
+  - [x] Git 004 - Branches
+  - [x] Git 005 - Stashing
+  - [x] Git 006 - Tags
+  - [x] Git 007 - Remotes
+  - [x] Git 008 - Fetch vs Pull
+  - [x] Git 009 - Push
+  - [x] Git 010 - Merge Conflicts
+  - [x] Git 011 - .gitignore
+  - [x] Git 012 - Rebasing
+  - [x] Git 013 - Cherry-pick
+  - [x] Git 014 - Reset (Soft, Mixed, Hard)
+  - [x] Git 015 - Reflog
+  - [x] Git 016 - Interactive Rebase
+  - [x] Git 017 - Git Workflows
+  - [x] Git 018 - Git Best Practices
 
 ## Linux
-
 - [ ]
 
 ## Bash
-
 - [ ]
 
 ## Python
-
 - [ ]
 
 ## Networking
-
 - [ ]
 
 ## Web
-
 - [ ]
 
 ## Cybersecurity
-
 - [ ]
