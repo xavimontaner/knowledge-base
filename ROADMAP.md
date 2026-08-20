@@ -27,9 +27,9 @@
 
   - [ ] Module 0 - Linux Foundations
 
-    - [ ] Linux 001 - What is Unix?
-    - [ ] Linux 002 - What is Linux?
-    - [ ] Linux 003 - The Linux Kernel & Operating Systems
+    - [x] Linux 001 - What is Unix?
+    - [x] Linux 002 - What is Linux?
+    - [x] Linux 003 - The Linux Kernel & Operating Systems
     - [ ] Linux 004 - Open Source & Free Software
     - [ ] Linux 005 - Linux Distributions
     - [ ] Linux 006 - The Unix Philosophy
