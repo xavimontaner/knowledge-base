@@ -1,19 +1,29 @@
 # Knowledge Base
 
-Welcome to my personal technical knowledge base.
+A personal collection of technical notes, concepts, commands, experiments and lessons learned.
 
-This repository documents my learning journey throughout my Computer Engineering degree and beyond.
+This repository documents the knowledge I build while studying Computer Engineering and developing software and automation projects.
 
-## Topics
+## Purpose
 
-- Linux
-- Git
-- Python
-- Networking
-- Web Technologies
-- Cybersecurity
-- University Notes
+This repository is for learning material and reusable technical knowledge.
 
-## Goal
+Complete applications and automation projects live in their own repositories, where each project can have its own documentation, dependencies, tests, issues and release history.
 
-The goal of this repository is not only to store notes, but to document concepts, experiments and lessons learned while becoming a cybersecurity engineer.
+## Current Topics
+
+- [Git](./Git)
+- [Linux](./Linux)
+
+## Learning Approach
+
+1. Learn the fundamentals.
+2. Apply them in practical projects.
+3. Document useful concepts and lessons here.
+4. Keep each complete project in a separate repository.
+
+See the [learning roadmap](./ROADMAP.md) for the current areas of focus.
+
+## Projects
+
+My standalone programming and automation projects will be linked here as they are created.
